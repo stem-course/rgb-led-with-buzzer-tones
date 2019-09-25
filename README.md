@@ -1,2 +1,2 @@
-# rgb-led-with-buzzer-tones
-Code for RBG LED with buzzer tones project
+# Temperature based fan control
+This is the code for controlling the speed of a fan (DC motor) based on temperature.
